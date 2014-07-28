@@ -1,4 +1,4 @@
-package framework.util;
+package com.wikia.framework.util;
 
 import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.WebDriver;
@@ -49,3 +49,5 @@ public class DriverUtil {
     }
 
 }
+
+

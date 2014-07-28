@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Maddy" name="com.wikia.framework.tests.TestLogin" tests="2" failures="0" timestamp="28 Jul 2014 05:30:08 GMT" time="76.043" errors="0">
+  <testcase name="TestAddVideoVerifyAdded" time="33.863" classname="com.wikia.framework.tests.TestLogin"/>
+  <testcase name="TestLoginVerifyLoggedIn" time="24.269" classname="com.wikia.framework.tests.TestLogin"/>
+</testsuite>
